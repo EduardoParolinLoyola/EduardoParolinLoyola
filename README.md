@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá Boas Vindas 👋
 
-<!--
-**EduardoParolinLoyola/EduardoParolinLoyola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Eduardo Parolin Loyola e estou começando com o Github.
 
-Here are some ideas to get you started:
+- Sou estudante
+- Estou estudando no [alura](https://www.alura.com.br)
+- Estou Aprendendo a Linguagem JavaScript
+- Utilizo esse perfil para minha organização de scripts e para partilhar projetos desenvlvidos com alura e com a Escola
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contato via Escola:
+
+loyola.eduardo@escola.pr.gov.br
+
+![](https://media.tenor.com/2GfXe70THN0AAAAM/italian-greyhound-relatable.gif)
