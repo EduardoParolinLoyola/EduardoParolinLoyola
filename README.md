@@ -5,7 +5,7 @@ Meu nome é Eduardo Parolin Loyola e estou começando com o Github.
 - Sou estudante
 - Estou estudando no [alura](https://www.alura.com.br)
 - Estou Aprendendo a Linguagem JavaScript
-- Utilizo esse perfil para minha organização de scripts e para partilhar projetos desenvlvidos com alura e com a Escola
+- Utilizo esse perfil para minha organização de scripts e para partilhar projetos desenvolvidos com alura e com a Escola
 
 ### Contato via Escola:
 
