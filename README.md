@@ -12,6 +12,7 @@ Meu nome é Eduardo Parolin Loyola e estou começando com o Github.
 
 [![images](https://github.com/EduardoParolinLoyola/EduardoParolinLoyola/assets/133017858/e977e547-1348-4a7d-8987-2c39c4649b76)
 ]()
+@eduarduuu7
 
 ### Contato via Escola:
 
