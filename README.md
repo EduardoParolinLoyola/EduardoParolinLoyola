@@ -12,7 +12,8 @@ Meu Insta:
 
 
 
-[![imagem.(https://github.com/EduardoParolinLoyola/EduardoParolinLoyola/assets/133017858/8ff566e9-6a05-418c-8b63-ab156621486a)](https://www.instagram/@eduarduuu7)
+[![image](https://github.com/EduardoParolinLoyola/EduardoParolinLoyola/assets/133017858/bc92f12e-82a3-42f4-920e-3e6da4e9f273)
+](https://www.instagram/@eduarduuu7)
 
 ### Contato via Escola:
 
