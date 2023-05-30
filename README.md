@@ -10,7 +10,7 @@ Meu nome é Eduardo Parolin Loyola e estou começando com o Github.
 Meu Insta:
 
 
-[![image](https://github.com/EduardoParolinLoyola/EduardoParolinLoyola/assets/133017858/5b54e44b-97a0-4e84-b631-ccccb1be28ed)
+[![image](https://github.com/EduardoParolinLoyola/EduardoParolinLoyola/assets/133017858/498c9700-f7ea-40a1-81c1-0510a49fbf0c)
 ](https://www.instagram/@eduarduuu7)
 
 ### Contato via Escola:
