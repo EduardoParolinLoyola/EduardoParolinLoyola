@@ -7,7 +7,7 @@ Meu nome é Eduardo Parolin Loyola e estou começando com o Github.
 - Estou Aprendendo a Linguagem JavaScript
 - Utilizo esse perfil para minha organização de scripts e para partilhar projetos desenvolvidos com alura e com a Escola
 
-Meu [instagram](https://www.instagram/@eduarduuu7) muito chave
+Meu [![image](https://github.com/EduardoParolinLoyola/EduardoParolinLoyola/assets/133017858/8ff566e9-6a05-418c-8b63-ab156621486a)](https://www.instagram/@eduarduuu7) muito chave
 
 ### Contato via Escola:
 
