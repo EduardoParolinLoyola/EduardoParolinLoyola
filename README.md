@@ -20,6 +20,3 @@ Meu nome é Eduardo Parolin Loyola e estou começando com o Github.
 loyola.eduardo@escola.pr.gov.br
 
 ![](https://media.tenor.com/2GfXe70THN0AAAAM/italian-greyhound-relatable.gif)
-
-
-[![imagem](https://tenor.com/pt-BR/view/spongebob-meme-gif-25145804)
